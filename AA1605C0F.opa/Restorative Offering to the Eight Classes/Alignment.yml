@@ -1,0 +1,19 @@
+segment_sources:
+  P94245490:
+    type: origin_type
+    relation: translation
+    language: en
+  PACA77A7C:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  fc5fa26220ff40c2813f2e2b4fe33a91:
+    P94245490: 35694dc5622b4faa8aadf4d68b8df95f
+    PACA77A7C: 6e829240852e46fcaf7b77d3a32d22ec
+  ac83ddbeb9f7452cbf7a0193eff78b09:
+    P94245490: f31870156eb04725b2e226c09dd005e8
+    PACA77A7C: b4d1b707760f4cc09321f6f2f72c87da
+  d9d1c0afc5bc4664a78a61eb5d1cb427:
+    P94245490: 0ae9f3fda0434d4c887b4b1d269f5993
+    PACA77A7C: cd16e9ce0a584c6f94a5d8642a0e1ad7
